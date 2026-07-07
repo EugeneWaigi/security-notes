@@ -12,3 +12,15 @@ Common ports:
 22 - SSH
 80 - HTTP
 443 - HTTPS
+
+Penetration Testing Basics:
+
+Tools:
+- Nmap
+- Burp Suite
+- Metasploit
+
+Concepts:
+- Reconnaissance
+- Enumeration
+- Exploitation
