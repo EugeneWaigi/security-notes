@@ -24,3 +24,8 @@ Concepts:
 - Reconnaissance
 - Enumeration
 - Exploitation
+
+Useful security tools:
+- Nmap
+- Wireshark
+- Burp Suite
