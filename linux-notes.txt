@@ -5,3 +5,10 @@ ls - list files
 cd - change directory
 pwd - show current directory
 mkdir - create a folder
+
+Networking basics:
+
+Common ports:
+22 - SSH
+80 - HTTP
+443 - HTTPS
