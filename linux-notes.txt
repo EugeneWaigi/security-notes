@@ -1,0 +1,7 @@
+Cybersecurity Notes
+Linux commands:
+
+ls - list files
+cd - change directory
+pwd - show current directory
+mkdir - create a folder
