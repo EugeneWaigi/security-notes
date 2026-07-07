@@ -1,0 +1,15 @@
+# Secrets
+.env
+*.key
+*.pem
+
+# Password files
+passwords.txt
+credentials.txt
+
+# Python files
+__pycache__/
+
+# Operating system files
+.DS_Store
+Thumbs.db
